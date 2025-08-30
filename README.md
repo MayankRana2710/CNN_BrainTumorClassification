@@ -90,7 +90,15 @@ model.save('brainTumorCNN_model.keras')
 - **Pillow** – image handling  
 
 ---
+## 🚀 Deployment  
 
+The project is deployed on **Hugging Face Spaces** using **Streamlit**.  
+
+You can try the live demo here:  
+
+👉 [Brain Tumor Classifier CNN - Hugging Face Spaces](https://huggingface.co/spaces/mayankrana16/BrainTumorClassifierCNN) 
+
+---
 ## 👨‍💻 Developed By  
 
 **Mayank Rana**  
