@@ -59,7 +59,7 @@ The CNN model is built using **Keras (TensorFlow backend)** with the following l
 - Test Accuracy: **92.45%**
 - Test Loss: **0.2297**
 
-The model was evaluated on the test dataset and demonstrated strong performance.
+The model was evaluated on the test dataset and showed strong performance.
 
 ---
 
